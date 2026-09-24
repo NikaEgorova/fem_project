@@ -1,0 +1,8 @@
+# IDE and local Python environment
+.idea/
+.venv/
+
+# Generated and local FEM artifacts
+FEM/analize_zip.py
+FEM/FEM_fortran.zip
+FEM/fortran_analysis.csv
